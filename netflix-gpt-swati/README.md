@@ -17,6 +17,8 @@
 - BugFix: Sign up user display name and profile picture update
 - BugFix: If the user is not signed in redirect /browse to login page and vice-versa
 - Unsubscribe to onAuthStateChanged API after component unmounts
+- Register for TMDB API and create an App over there and get access token
+- get Data from from TMDB now playing movie list API
 
 # Features
 - Login/Sign Up
